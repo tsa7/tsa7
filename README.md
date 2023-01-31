@@ -1,4 +1,4 @@
-### Hi, I'm Thomas! 👋
+### Hi, I'm Thomas!
 
 <!--
 **tsa7/tsa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
