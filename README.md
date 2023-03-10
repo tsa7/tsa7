@@ -1,8 +1,8 @@
 # 🚀 Hi, I'm Thomas!
 💻 Creating logic errors since 2021<br>📚 College class of 2026<br>🎮 Currently working on Virtual eSports Coach and coursework<br>🌱 Currently learning front-end web development
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tsa7&theme=transparent&hide_border=false&include_all_commits=true&custom_title=tsa7%27s%20GitHub%20Stats&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tsa7&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=tsa7&theme=transparent&hide_border=false&include_all_commits=true&custom_title=tsa7%27s%20GitHub%20Stats&count_private=true)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tsa7&theme=transparent&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsa7&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=transparent)
 ---
 ![](https://github-profile-trophy.vercel.app/?username=tsa7&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
